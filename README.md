@@ -1,1 +1,2 @@
 # ContraceptiveChoice
+Contraceptive choice is an important aspect of a woman’s life and this paper explores factors that contribute to the type of contraception used. The process used to build regression and decision tree models can help provide an understanding by trying to identify any interactions. This paper begins by exploring the relationship between number of children and contraceptive type, then building two models using Python’s scikit-learn machine learning library and finally how we can select and categorize the given data to optimize our model.
